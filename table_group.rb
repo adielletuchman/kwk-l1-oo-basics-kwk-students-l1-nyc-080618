@@ -48,6 +48,7 @@ adielle.base_traits
 initiation.each do |person|
   puts person
 end 
+
 puts "#{names.name}'s favorite TV show is #{names.fave_tv_show}"
 puts "#{names.name}'s favorite food is #{names.fave_food}"
 puts "#{names.name} has #{names.amount_sibling} siblings"
